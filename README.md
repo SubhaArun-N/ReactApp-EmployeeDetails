@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Application URL
 
-This application is deployed @  https://subhaarun-n.github.io/ReactApp-EmployeeDetails/employeeList
+This application is deployed @  https://subhaarun-n.github.io/ReactApp-EmployeeDetails
 
 ## Available Scripts
 
